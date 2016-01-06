@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\myProject\cocos2d-x-3.2\NEW_PROJECTS_DIR\CatchTheBall\trunk\Resources\Panel</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>D:\myProject\cocos2d-x-3.2\NEW_PROJECTS_DIR\CatchTheBall\trunk\Resources\Panel\Resources</Resources>
+  <Name>NewUi</Name>
+  <JsonFileName>NewUi.json</JsonFileName>
+  <JsonFolder>D:\myProject\cocos2d-x-3.2\NEW_PROJECTS_DIR\CatchTheBall\trunk\Resources\Panel\Json</JsonFolder>
+  <JsonList>
+    <string>CatchTheBallPanel.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>500</Width>
+    <Height>700</Height>
+  </CanvasSize>
+  <filePath>D:\myProject\cocos2d-x-3.2\NEW_PROJECTS_DIR\CatchTheBall\trunk\Resources\Panel\NewUi.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList>
+    <string>panel_bg.png</string>
+    <string>GUI/image.png</string>
+    <string>sns.png</string>
+    <string>panel_again.png</string>
+    <string>game_center.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>CatchTheBallPanel.json</CurrentUIJson>
+</UIProject>

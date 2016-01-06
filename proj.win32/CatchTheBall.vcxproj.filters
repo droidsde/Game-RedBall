@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\entry">
+      <UniqueIdentifier>{e9b5b305-5473-4d0c-8ad6-61484a4f03b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\game">
+      <UniqueIdentifier>{d333d954-f083-4976-a9d2-6d96e7b955a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\toolKit">
+      <UniqueIdentifier>{e91ece72-4b5f-4723-8b39-beb0e5ad5298}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\entry\EntryLayer.cpp">
+      <Filter>Classes\entry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\entry\EntryScence.cpp">
+      <Filter>Classes\entry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\game\BlockBall.cpp">
+      <Filter>Classes\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\game\Cup.cpp">
+      <Filter>Classes\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\game\GameLayer.cpp">
+      <Filter>Classes\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\game\GameScence.cpp">
+      <Filter>Classes\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\game\Ball.cpp">
+      <Filter>Classes\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\toolKit\UriHelper.cpp">
+      <Filter>Classes\toolKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\toolKit\SoundManager.cpp">
+      <Filter>Classes\toolKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\toolKit\Telegraph.cpp">
+      <Filter>Classes\toolKit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GlobalRunTimeData.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\game\UFO.cpp">
+      <Filter>Classes\game</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\entry\EntryLayer.h">
+      <Filter>Classes\entry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\entry\EntryScence.h">
+      <Filter>Classes\entry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\game\BlockBall.h">
+      <Filter>Classes\game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\game\Cup.h">
+      <Filter>Classes\game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\game\GameLayer.h">
+      <Filter>Classes\game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\game\GameScence.h">
+      <Filter>Classes\game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\game\Ball.h">
+      <Filter>Classes\game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\toolKit\UriHelper.h">
+      <Filter>Classes\toolKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\toolKit\SoundManager.h">
+      <Filter>Classes\toolKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\toolKit\Telegraph.h">
+      <Filter>Classes\toolKit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GlobalRunTimeData.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\user-macros.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\game\UFO.h">
+      <Filter>Classes\game</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>COMBO_TIME</key>
+	<integer>21</integer>
+	<key>RedBallPercentAddonPerFrame</key>
+	<real>0.00030833333333333335</real>
+	<key>RedBallPercentMax</key>
+	<real>0.5</real>
+	<key>RedBallPercentStart</key>
+	<real>0.12000000000000001</real>
+	<key>VernierAddonPerFrame</key>
+	<real>-0.011</real>
+	<key>VernierMaxStart</key>
+	<integer>30</integer>
+	<key>VernierMin</key>
+	<integer>5</integer>
+</dict>
+</plist>

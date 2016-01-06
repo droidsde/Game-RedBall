@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\myProject\cocos2d-x-3.2\NEW_PROJECTS_DIR\CatchTheBall\trunk\Resources\InfoPanel</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>D:\myProject\cocos2d-x-3.2\NEW_PROJECTS_DIR\CatchTheBall\trunk\Resources\InfoPanel\Resources</Resources>
+  <Name>InfoPanel</Name>
+  <JsonFileName>InfoPanel.json</JsonFileName>
+  <JsonFolder>D:\myProject\cocos2d-x-3.2\NEW_PROJECTS_DIR\CatchTheBall\trunk\Resources\InfoPanel\Json</JsonFolder>
+  <JsonList>
+    <string>InfoPanel_1.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>450</Width>
+    <Height>750</Height>
+  </CanvasSize>
+  <filePath>D:\myProject\cocos2d-x-3.2\NEW_PROJECTS_DIR\CatchTheBall\trunk\Resources\InfoPanel\InfoPanel.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList>
+    <string>info_1.png</string>
+    <string>red_cress_1.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>InfoPanel_1.json</CurrentUIJson>
+</UIProject>
